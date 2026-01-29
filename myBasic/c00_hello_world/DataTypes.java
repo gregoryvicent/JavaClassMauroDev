@@ -7,7 +7,15 @@ public class DataTypes {
         System.out.println(myInt);
         double myDouble = 1.75;
         System.out.println(myDouble);
+        float myFloat = 1.5f;
+        System.out.println(myFloat);
+        long myLong = 123;
+        System.out.println(myLong);
+        byte myByte = 123;
+        System.out.println(myByte);
         char myChar = 'a';
         System.out.println(myChar);
+        boolean myBoolean = true;
+        System.out.println(myBoolean);
     }
 }
