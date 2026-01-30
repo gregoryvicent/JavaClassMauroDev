@@ -17,5 +17,6 @@ public class DataTypes {
         System.out.println(myChar);
         boolean myBoolean = true;
         System.out.println(myBoolean);
+        // Cambios
     }
 }
