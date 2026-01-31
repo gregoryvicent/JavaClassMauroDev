@@ -1,4 +1,4 @@
-package myBasic.c00_hello_world;
+package myBasic.c01_beginner;
 
 public class DataTypes {
     public static void main(String[] args) {
